@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>561020290926-cbm54nj44g6lf0fohm9t7r2j0e08upcl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.561020290926-cbm54nj44g6lf0fohm9t7r2j0e08upcl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDU4rYMRLsT20SbXq5v6WpJjVqY_yGjtdY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>561020290926</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Tushar.TKFirebaseDemo</string>
+	<key>PROJECT_ID</key>
+	<string>tkfirebasedemo-405c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tkfirebasedemo-405c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:561020290926:ios:b8df47a732c260a5</string>
+	<key>DATABASE_URL</key>
+	<string>https://tkfirebasedemo-405c8.firebaseio.com</string>
+</dict>
+</plist>
